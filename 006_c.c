@@ -17,7 +17,7 @@ int main ()
 	printf("Substracrion b-a %d\n", b-a);
 	printf("Multiplication d*e %d\n", d*e);
 	printf("Division e/d %d\n", e/d);
-	printf("Remainder division a/e %d\n", a%e);
+	printf("Remainder division a%%e %d\n", a%e);
 	printf("Increment ++e %d\n", ++e);
 	printf("Increment a++ %d\n", a++);
 	printf("Result previos Increment a  %d\n", a);
