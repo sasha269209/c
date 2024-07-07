@@ -1,6 +1,24 @@
 // file 014_c.c
 //Lessons 13 (FromtheLAMERtotheProgrammer - 46 lessons)
 
+/*
+#include <stdio.h> "my_file.h"
+#define CONST 10
+#undef CONST 500
+
+#if
+#ifdef
+#ifndef
+#elif
+#else
+#endif
+
+#line
+#error
+#pragma
+#define MY_FUMC (arg_1, arg_n) (arg_1+arg_n-888) 
+*/
+
 #include <stdio.h>
 
 #define SUM(a, b) (a+b)*2
