@@ -1,5 +1,5 @@
-// file 020_c.c
-//Lessons 19 (FromtheLAMERtotheProgrammer - 46 lessons)
+// file 021_c.c
+//Lessons 20 (FromtheLAMERtotheProgrammer - 46 lessons)
 
 #include <stdio.h>
 
